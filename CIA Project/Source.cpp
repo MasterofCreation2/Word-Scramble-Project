@@ -69,7 +69,7 @@ int main()
 		cout << "Enter 'quit' if you would like to quit the game.\n\n";
 		cout << "The scrambled message is: " << jumble;
 
-		
+	
 		for (int nIndex = 0; nIndex < MAX_GUESS; nIndex++)
 		{
 			//This is for the word you guessed
